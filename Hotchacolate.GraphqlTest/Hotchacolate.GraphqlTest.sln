@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotchacolate.GraphqlTest", "Hotchacolate.GraphqlTest\Hotchacolate.GraphqlTest.csproj", "{50A0E117-DACC-4675-BF24-30E5901A7615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance.CosmosDb", "Persistance.CosmosDb\Persistance.CosmosDb.csproj", "{456B74C2-E5BC-4F00-9BDE-CD899B54F438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A0E117-DACC-4675-BF24-30E5901A7615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A0E117-DACC-4675-BF24-30E5901A7615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A0E117-DACC-4675-BF24-30E5901A7615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A0E117-DACC-4675-BF24-30E5901A7615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456B74C2-E5BC-4F00-9BDE-CD899B54F438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456B74C2-E5BC-4F00-9BDE-CD899B54F438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456B74C2-E5BC-4F00-9BDE-CD899B54F438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456B74C2-E5BC-4F00-9BDE-CD899B54F438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F7F06A-DC68-4A28-974B-26B734BE5CD7}
+	EndGlobalSection
+EndGlobal
